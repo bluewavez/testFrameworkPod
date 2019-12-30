@@ -1,0 +1,25 @@
+{
+  "name": "testFrameworkPod",
+  "version": "0.1.0",
+  "summary": "A short description of testFrameworkPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bluewavez/testFrameworkPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bluewavez": "1148810863@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/bluewavez/testFrameworkPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "vendored_frameworks": "testFrameworkPod/Classes/*.framework"
+  },
+  "source_files": "testFrameworkPod/Classes/**/*"
+}

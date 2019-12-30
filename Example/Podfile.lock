@@ -1,0 +1,16 @@
+PODS:
+  - testFrameworkPod (0.1.0)
+
+DEPENDENCIES:
+  - testFrameworkPod (from `../`)
+
+EXTERNAL SOURCES:
+  testFrameworkPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  testFrameworkPod: 57fcea54482f8337257c0011c12e8730852ef7c1
+
+PODFILE CHECKSUM: e88f051ad181e8d3150a8e6976a89cba3747b269
+
+COCOAPODS: 1.8.4
